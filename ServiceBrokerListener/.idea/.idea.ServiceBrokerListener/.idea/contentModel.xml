@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_ServiceBrokerListener.-100356073.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="ServiceBrokerListener.Domain" t="IncludeRecursive">
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ServiceBrokerListener.Domain.csproj" t="IncludeRecursive" />
+        <e p="SqlDependencyEx.cs" t="Include" />
+        <e p="TsqlHelper.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="ServiceBrokerListener.Domain.Core" t="IncludeRecursive">
+        <e p="ServiceBrokerListener.Domain.Core.xproj" t="IncludeRecursive" />
+      </e>
+      <e p="ServiceBrokerListener.Tablelistener.Core" t="IncludeRecursive">
+        <e p="ServiceBrokerListener.TableListener.Core.xproj" t="IncludeRecursive" />
+      </e>
+      <e p="ServiceBrokerListener.UnitTests" t="IncludeRecursive">
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ServiceBrokerListener.UnitTests.csproj" t="IncludeRecursive" />
+        <e p="SqlDependencyExTest.cs" t="Include" />
+        <e p="SqlDependencyTest.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="ServiceBrokerListener.UnitTests.Core" t="IncludeRecursive">
+        <e p="ServiceBrokerListener.UnitTests.Core.xproj" t="IncludeRecursive" />
+      </e>
+      <e p="ServiceBrokerListener.WebUI" t="IncludeRecursive">
+        <e p="Abstract" t="Include">
+          <e p="ITableRowRepository.cs" t="Include" />
+        </e>
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="BundleConfig.cs" t="Include" />
+          <e p="FilterConfig.cs" t="Include" />
+          <e p="NinjectWebCommon.cs" t="Include" />
+          <e p="RouteConfig.cs" t="Include" />
+          <e p="WebApiConfig.cs" t="Include" />
+        </e>
+        <e p="Content" t="Include">
+          <e p="Start" t="Include">
+            <e p="images" t="Include">
+              <e p="animated-overlay.gif" t="Include" />
+              <e p="ui-bg_flat_55_999999_40x100.png" t="Include" />
+              <e p="ui-bg_flat_75_aaaaaa_40x100.png" t="Include" />
+              <e p="ui-bg_glass_45_0078ae_1x400.png" t="Include" />
+              <e p="ui-bg_glass_55_f8da4e_1x400.png" t="Include" />
+              <e p="ui-bg_glass_75_79c9ec_1x400.png" t="Include" />
+              <e p="ui-bg_gloss-wave_45_e14f1c_500x100.png" t="Include" />
+              <e p="ui-bg_gloss-wave_50_6eac2c_500x100.png" t="Include" />
+              <e p="ui-bg_gloss-wave_75_2191c0_500x100.png" t="Include" />
+              <e p="ui-bg_inset-hard_100_fcfdfd_1x100.png" t="Include" />
+              <e p="ui-icons_0078ae_256x240.png" t="Include" />
+              <e p="ui-icons_056b93_256x240.png" t="Include" />
+              <e p="ui-icons_d8e7f3_256x240.png" t="Include" />
+              <e p="ui-icons_e0fdff_256x240.png" t="Include" />
+              <e p="ui-icons_f5e175_256x240.png" t="Include" />
+              <e p="ui-icons_f7a50d_256x240.png" t="Include" />
+              <e p="ui-icons_fcd113_256x240.png" t="Include" />
+            </e>
+            <e p="jquery.ui.accordion.css" t="Include" />
+            <e p="jquery.ui.all.css" t="Include" />
+            <e p="jquery.ui.autocomplete.css" t="Include" />
+            <e p="jquery.ui.base.css" t="Include" />
+            <e p="jquery.ui.button.css" t="Include" />
+            <e p="jquery.ui.core.css" t="Include" />
+            <e p="jquery.ui.datepicker.css" t="Include" />
+            <e p="jquery.ui.dialog.css" t="Include" />
+            <e p="jquery.ui.menu.css" t="Include" />
+            <e p="jquery.ui.progressbar.css" t="Include" />
+            <e p="jquery.ui.resizable.css" t="Include" />
+            <e p="jquery.ui.selectable.css" t="Include" />
+            <e p="jquery.ui.slider.css" t="Include" />
+            <e p="jquery.ui.spinner.css" t="Include" />
+            <e p="jquery.ui.tabs.css" t="Include" />
+            <e p="jquery.ui.theme.css" t="Include" />
+            <e p="jquery.ui.tooltip.css" t="Include" />
+          </e>
+          <e p="bootstrap-theme.css" t="Include" />
+          <e p="bootstrap-theme.min.css" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="handsontable.full.css" t="Include" />
+          <e p="index.css" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="glyphicons-halflings-regular.eot" t="Include" />
+          <e p="glyphicons-halflings-regular.svg" t="Include" />
+          <e p="glyphicons-halflings-regular.ttf" t="Include" />
+          <e p="glyphicons-halflings-regular.woff" t="Include" />
+        </e>
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="Helpers" t="Include">
+          <e p="TableRowsCollectionExtension.cs" t="Include" />
+        </e>
+        <e p="Images" t="Include">
+          <e p="img0001.png" t="Include" />
+          <e p="img0002.png" t="Include" />
+          <e p="img0003.png" t="Include" />
+          <e p="img0004.png" t="Include" />
+          <e p="img0005.png" t="Include" />
+          <e p="index_bkgrnd.png" t="Include" />
+          <e p="logo_facebook.gif" t="Include" />
+          <e p="logo_linkedin.gif" t="Include" />
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="HomeHub.cs" t="Include" />
+          <e p="NinjectDependencyResolver.cs" t="Include" />
+          <e p="SignalRStartup.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="TableRow.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="handsontable.full.js" t="Include" />
+          <e p="jquery-1.11.1.min.js" t="Include" />
+          <e p="jquery-1.9.1.intellisense.js" t="Include" />
+          <e p="jquery-1.9.1.js" t="Include" />
+          <e p="jquery-1.9.1.min.js" t="Include" />
+          <e p="jquery-1.9.1.min.map" t="Include" />
+          <e p="jquery.signalR-2.2.0.js" t="Include" />
+          <e p="jquery.signalR-2.2.0.min.js" t="Include" />
+          <e p="jquery.ui.button.min.js" t="Include" />
+          <e p="jquery.ui.core.min.js" t="Include" />
+          <e p="jquery.ui.dialog.min.js" t="Include" />
+          <e p="jquery.ui.draggable.min.js" t="Include" />
+          <e p="jquery.ui.effect-fade.min.js" t="Include" />
+          <e p="jquery.ui.effect.min.js" t="Include" />
+          <e p="jquery.ui.mouse.min.js" t="Include" />
+          <e p="jquery.ui.position.min.js" t="Include" />
+          <e p="jquery.ui.resizable.min.js" t="Include" />
+          <e p="jquery.ui.widget.min.js" t="Include" />
+        </e>
+        <e p="ServiceBrokerListener.WebUI.csproj" t="IncludeRecursive" />
+        <e p="Views" t="Include">
+          <e p="Home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+        <e p="Web.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+      </e>
+      <e p="ServiceBrokerListener.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="Include">
+        <e p="Domain" t="IncludeRecursive">
+          <e p="Domain.csproj" t="IncludeRecursive" />
+          <e p="SqlDependencyEx.cs" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.1" t="Include">
+                <e p="Domain.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
